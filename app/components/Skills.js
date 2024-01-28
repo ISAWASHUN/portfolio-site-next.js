@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 import { AiFillBulb } from 'react-icons/ai';
- 
+
 function Skills() {
   return (
     <section
@@ -106,5 +106,5 @@ function Skills() {
     </section>
   );
 }
- 
+
 export default Skills;
